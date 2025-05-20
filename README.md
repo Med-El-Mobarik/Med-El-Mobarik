@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Med-El Mobarik
+# 👋 Salut, moi c’est Mohamed El Mobarik
 
 🎯 Développeur Fullstack passionné par la création d'applications web modernes, performantes et sécurisées.
 
