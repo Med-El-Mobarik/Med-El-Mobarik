@@ -32,8 +32,8 @@ Actuellement à la recherche d'opportunités en tant que **développeur freelanc
 
 ## 📫 Me contacter
 
-- 📧 Email : ton.email@example.com
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 📧 Email : mo.elmobarik@gmail.com
+- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/med-el-mobarik)
 - 🐙 GitHub : [github.com/Med-El-Mobarik](https://github.com/Med-El-Mobarik)
 
 ---
