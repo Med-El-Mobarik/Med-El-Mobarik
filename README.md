@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Med-El Mobarik
 
-<!--
-**Med-El-Mobarik/Med-El-Mobarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeur Fullstack passionné par la création d'applications web modernes, performantes et sécurisées.
 
-Here are some ideas to get you started:
+🌐 Découvrez mon portfolio : [medlab.dev](https://medlab.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Compétences techniques
+
+- **Langages** : JavaScript, TypeScript
+- **Frontend** : React (Vite), Material UI
+- **Backend** : NestJS
+- **DevOps** : Docker, NGINX, Certbot
+- **Optimisation** : Performance, SEO, Accessibilité, Sécurité
+
+---
+
+## 🚀 Projets récents
+
+- **[medlab.dev](https://medlab.dev)** : Portfolio personnel mettant en avant mes compétences et projets.
+- **Systèmes d'authentification** : Intégration de solutions sécurisées avec Keycloak et NestJS.
+- **Architecture microservices** : Mise en place d'une architecture scalable avec Docker et Kubernetes.
+
+---
+
+## 📈 Objectifs professionnels
+
+Actuellement à la recherche d'opportunités en tant que **développeur freelance**, je suis motivé à collaborer sur des projets innovants et ambitieux.
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : ton.email@example.com
+- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 🐙 GitHub : [github.com/Med-El-Mobarik](https://github.com/Med-El-Mobarik)
+
+---
+
+Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou opportunité.
