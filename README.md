@@ -1,41 +1,80 @@
-# 👋 Salut, moi c’est Mohamed El Mobarik
+# 👋 Hello, je suis Mohamed El Mobarik
 
-🎯 Développeur Fullstack passionné par la création d'applications web modernes, performantes et sécurisées.
+🎯 Ingénieur DevOps | Lead Developer | Développeur Full Stack  
+📍 Lyon, France  
+📫 mo.elmobarik@gmail.com | +33 7 74 37 56 82  
+🌐 [Portfolio](https://medlab.dev) | [LinkedIn](https://linkedin.com/in/med-el-mobarik)
 
-🌐 Découvrez mon portfolio : [medlab.dev](https://medlab.dev)
+---
+
+## 🔍 À propos
+
+Ingénieur DevOps et Lead Développeur avec plus de **3 ans d’expérience** en développement full stack, cloud infrastructure, CI/CD et automatisation.
+
+Spécialisé en **Kubernetes**, **Docker**, et **AWS**, j'interviens sur l’ensemble du cycle de vie d’un projet, de l’architecture au déploiement, en passant par le développement, la qualité du code, et la gestion d’équipe Agile.
+
+Passionné par les défis techniques et l’optimisation d’infrastructure, je propose des solutions innovantes pour améliorer la performance et la scalabilité des applications.
 
 ---
 
 ## 🧰 Compétences techniques
 
-- **Langages** : JavaScript, TypeScript
-- **Frontend** : React (Vite), Material UI
-- **Backend** : NestJS
-- **DevOps** : Docker, NGINX, Certbot
-- **Optimisation** : Performance, SEO, Accessibilité, Sécurité
+**DevOps & Cloud**  
+Kubernetes (CKA), Docker, AWS, Terraform, Ansible, Linux, GitOps, GitHub Actions, GitLab CI/CD, Jenkins
+
+**Backend**  
+Node.js (Express, NestJS), Java (Spring Boot), Go, Python, PHP (Laravel)
+
+**Frontend**  
+React, React Native, Redux, Angular, Next.js, TypeScript, Tailwind, Material UI, Sass
+
+**Bases de données**  
+SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB), ORM (TypeORM, JPA, Eloquent)
+
+**UI/UX & Design**  
+Figma, Adobe XD, Photoshop
 
 ---
 
-## 🚀 Projets récents
+## 💼 Expériences récentes
 
-- **[medlab.dev](https://medlab.dev)** : Portfolio personnel mettant en avant mes compétences et projets.
-- **Systèmes d'authentification** : Intégration de solutions sécurisées avec Keycloak et NestJS.
-- **Architecture microservices** : Mise en place d'une architecture scalable avec Docker et Kubernetes.
+**🧠 Apitech – Chef de projet & Architecte technique (2024 - Présent)**  
+→ Gestion de projet, feuille de route produit, accompagnement client et résolution technique avancée.
 
----
+**🧱 Apitech – Lead Developer (2023 - 2024)**  
+→ Système de communication déployé dans un cluster Kubernetes (NestJS, Angular, Docker).
 
-## 📈 Objectifs professionnels
+**📱 Fraisy (Freelance) – Full Stack & Mobile (2022 - 2023)**  
+→ App mobile cross-platform + dashboard admin pour un marché en ligne (React Native, Node.js).
 
-Actuellement à la recherche d'opportunités en tant que **développeur freelance**, je suis motivé à collaborer sur des projets innovants et ambitieux.
-
----
-
-## 📫 Me contacter
-
-- 📧 Email : mo.elmobarik@gmail.com
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/med-el-mobarik)
-- 🐙 GitHub : [github.com/Med-El-Mobarik](https://github.com/Med-El-Mobarik)
+**🌐 Prime Zone Systems – Développeur Front-End (2021 - 2022)**  
+→ Application web embarquée en 3D pour gestion d’équipements IOT (React, MQTT, Node.js).
 
 ---
 
-Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou opportunité.
+## 🎓 Formation
+
+**🎓 ENSA (École Nationale des Sciences Appliquées)** – Ingénieur d’État en Informatique et Science des Données  
+**🎓 Lycée Abou El Abass Sebti** – Baccalauréat scientifique (Physique)
+
+---
+
+## 📜 Certifications
+
+- ✅ **CKA – Certified Kubernetes Administrator**  
+- ✅ FreeCodeCamp – Front End Development Libraries  
+- ✅ Udemy – Salesforce Administrator Certification  
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 Français : Courant  
+- 🇬🇧 Anglais : Professionnel  
+- 🇲🇦 Arabe : Courant  
+- 🇪🇸 Espagnol : Débutant
+
+---
+
+Merci d’avoir visité mon profil GitHub !  
+💬 N’hésite pas à me **contacter** pour discuter projets, collaborations ou missions freelance.
